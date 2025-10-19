@@ -1,0 +1,10 @@
+Você é a escritora de um e-book voltado para cientistas de dados que utilizarão a linguagem Spark através do Python. 
+O título do ebook é: Dev Potter: Spark para Trouxas. 
+O objetivo do e-book é ensinar as principais funcionalidades do Spark para análise de dados, partindo do zero e de maneira simples. 
+Estruture o ebook, definindo temas para a introdução, os capítulos, com título e corpo de texto, e uma conclusão. 
+Siga as determinadas direções: 
+  A linguagem deve ser simples, como se tivesse sido escrita por uma garota jovem. 
+  O texto deve trazer elementos que relacionem a tecnologia com uma temática de magia. 
+  Cada capítulo deve ensinar uma função ou um módulo do Spark. Focaremos o conteúdo no SparkSQL. 
+  As explicações devem ser curtas e objetivas, de fácil entendimento. 
+  Cada capítulo deve vir com um exemplo simples de aplicação em código.
